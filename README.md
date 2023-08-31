@@ -1,5 +1,6 @@
 # 50-days-of-py
 ***50 Days, 50 Python Exercises***
+
 Here, I attempt the 50 Python exercises from Reuven's book "**Python Workout**: *50 TEN-MINUTE EXERCISES*"
 
 ---
