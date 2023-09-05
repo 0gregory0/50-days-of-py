@@ -10,7 +10,7 @@ This repo has ten folders, representing the ten chapters of the book, each focus
 
 The chapters are:
 
-1. **Numeric types**: Integers and floats—and converting between numbers and strings.
+1. [**Numeric types**](https://github.com/0gregory0/50-days-of-py/tree/main/1.%20Numeric%20Types): Integers and floats—and converting between numbers and strings.
 
 2. **Strings**: Working with strings, and seeing them not just as text, but also as
 sequences over which you can iterate.
