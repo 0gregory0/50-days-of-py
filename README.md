@@ -12,7 +12,7 @@ The chapters are:
 
 1. [**Numeric types**](https://github.com/0gregory0/50-days-of-py/tree/main/1.%20Numeric%20Types): Integers and floats—and converting between numbers and strings.
 
-2. **Strings**: Working with strings, and seeing them not just as text, but also as
+2. [**Strings**](https://github.com/0gregory0/50-days-of-py/tree/main/2.%20Strings): Working with strings, and seeing them not just as text, but also as
 sequences over which you can iterate.
 3. **Lists and tuples**: Creating, modifying (in the case of lists), and retrieving from
 lists and tuples.
